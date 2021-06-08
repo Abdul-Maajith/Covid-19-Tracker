@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Covid-19 Tracker Using React leaflet
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
